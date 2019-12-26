@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\user\source\repos\lab3\lab3\main.cpp(39): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\user\source\repos\lab3\lab3\main.cpp(40): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\user\source\repos\lab3\lab3\main.cpp(41): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  lab3.vcxproj -> C:\Users\User\source\repos\Lab3\x64\Debug\lab3.exe
