@@ -26,4 +26,3 @@
 Замикання:
 ![closure](https://user-images.githubusercontent.com/38464146/70157857-f9470580-16be-11ea-9f9b-44f7d28ad1c7.png)
 
-[Відео з розмиттям](https://youtu.be/MsbfTet7j6Q)
