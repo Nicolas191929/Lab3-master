@@ -22,8 +22,7 @@
 ![dilation](https://user-images.githubusercontent.com/38464146/70157817-e7656280-16be-11ea-962d-48b018b03354.png)
 
 Відкриття:
-![opening](https://user-images.githubusercontent.com/38464146/70157838-f0eeca80-16be-11ea-89b6-1e4a8dd03a9c.png)
-
+![opening](https://user-images.githubusercontent.com/38464146/70157838-f0eeca80-16be-11ea-89b6-1e4a8dd03a9c.png)r
 Замикання:
 ![closure](https://user-images.githubusercontent.com/38464146/70157857-f9470580-16be-11ea-9f9b-44f7d28ad1c7.png)
 
